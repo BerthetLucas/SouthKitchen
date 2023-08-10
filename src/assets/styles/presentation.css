@@ -1,0 +1,14 @@
+.presentation-container {
+    height : none; 
+}
+
+.presentation-backgroung {
+    background-color: #E4D06E; 
+    
+}   
+
+@media (min-width: 1024px) { 
+    .presentation-container{
+        height : 100vh; 
+    }
+ }
