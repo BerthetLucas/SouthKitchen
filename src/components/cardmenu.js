@@ -1,4 +1,8 @@
 import "../assets/styles/cardmenu.css";
+import lavandes from "../assets/img/lavandes.jpg"
+import olives from "../assets/img/olives.jpg"
+import citrons from "../assets/img/citrons.jpg"
+
 
 import platderiz from "../assets/img/mezze.jpg";
 
@@ -10,7 +14,7 @@ function CardMenu() {
           <div className="relative">
             <img
               className="object-cover w-full h-64 rounded-t lg:h-80 xl:h-96"
-              src={platderiz}
+              src={citrons}
               alt=""
             />
             <div className="absolute inset-0 bg-gray-800 bg-opacity-25" />
@@ -30,7 +34,7 @@ function CardMenu() {
           <div className="relative">
             <img
               className="object-cover w-full h-64 rounded-t lg:h-80 xl:h-96"
-              src="https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+              src={olives}
               alt=""
             />
             <div className="absolute inset-0 bg-gray-800 bg-opacity-25" />
@@ -50,7 +54,7 @@ function CardMenu() {
           <div className="relative">
             <img
               className="object-cover w-full h-64 rounded-t lg:h-80 xl:h-96"
-              src="https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+              src={lavandes}
               alt=""
             />
             <div className="absolute inset-0 bg-gray-800 bg-opacity-25" />
