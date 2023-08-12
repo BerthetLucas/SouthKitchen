@@ -25,7 +25,7 @@ function Nav () {
               href="#galerie"
               aria-label="Our product"
               title="Our product"
-              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400 hover:underline"
             >
               Galerie
             </a>
@@ -35,7 +35,7 @@ function Nav () {
               href="#nos-menus"
               aria-label="Product pricing"
               title="Product pricing"
-              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400 hover:underline"
             >
               Nos Menus
             </a>
@@ -45,7 +45,7 @@ function Nav () {
               href="#nous-contacter"
               aria-label="Product pricing"
               title="Product pricing"
-              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400 hover:underline"
             >
               Nous contacter 
             </a>
