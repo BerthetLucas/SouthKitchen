@@ -26,16 +26,17 @@ function Contact() {
   };
 
   return (
-    <div className="contact-form">
-    <form ref={form} onSubmit={sendEmail}>
+  
+    <div className="md:w-1/2 md:flex md:justify-center md:items-center">
+    <form ref={form} onSubmit={sendEmail} className="flex flex-col items-center gap-2 p-5 border-2 rounded-lg md:w-1/2 md:gap-6">
       <label>Nom de la réservation</label>
-      <input type="text" name="user_name" />
+      <input type="text" name="user_name" className=" rounded"/>
       <label for="number">Nombre de personnes</label>
-      <select name="number" required>
+      <select name="number" required className=" rounded">  
         <option value="">Choisir</option>
         <option>1</option>
         <option>2</option>
-        <option>3</option>
+        <option>3</option>@
         <option>4</option>
         <option>5</option>
         <option>6</option>
@@ -43,15 +44,17 @@ function Contact() {
         <option>8</option>
       </select>
       <label for="day">Jour de réservation</label>
-      <input type="date" name="day"></input>
+      <input type="date" name="day" className=" rounded"></input>
       <label for="time">Heure de réservation</label>
-      <input type="time" name="time"></input>
+      <input type="time" name="time" className=" rounded"></input>
       <label>Message</label>
-      <textarea name="message" />
-      <input type="submit" value="Send" />
+      <textarea name="message" className=" rounded" />
+      <button className=" rounded w-20 hover:bg-yellow-400 hover:opacity-50"><input type="submit" value="Send" /></button>
     </form>
     </div>
+   
   );
 }
 
 export default Contact;
+

@@ -127,6 +127,7 @@ function Nav () {
                         aria-label="Our product"
                         title="Our product"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+                        onClick={() => setIsMenuOpen(false)}
                       >
                         Home
                       </a>
@@ -137,6 +138,7 @@ function Nav () {
                         aria-label="Our product"
                         title="Our product"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+                        onClick={() => setIsMenuOpen(false)}
                       >
                         Galerie
                       </a>
@@ -147,6 +149,7 @@ function Nav () {
                         aria-label="Product pricing"
                         title="Product pricing"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+                        onClick={() => setIsMenuOpen(false)}
                       >
                         Nos Menus
                       </a>
@@ -157,6 +160,7 @@ function Nav () {
                         aria-label="Product pricing"
                         title="Product pricing"
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+                        onClick={() => setIsMenuOpen(false)}
                       >
                      Nous contacter
                       </a>

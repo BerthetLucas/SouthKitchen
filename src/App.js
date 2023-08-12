@@ -3,7 +3,9 @@ import Nav from "./components/Nav";
 import Presentation from "./components/Presentation";
 import Gallerie from "./components/Gallerie";
 import CardMenu from "./components/cardmenu";
+import History from "./components/history";
 import Contact from "./components/contact";
+
 
 function App() {
   return (
@@ -26,7 +28,8 @@ function App() {
         <CardMenu />
       </div>
 
-      <div id="nous-contacter">
+      <div id="nous-contacter" className="page3 flex flex-col justify-center items-center gap-6 md:flex-row md:justify-between md:gap-0">
+        <History />
         <Contact />
       </div>
     </div>
