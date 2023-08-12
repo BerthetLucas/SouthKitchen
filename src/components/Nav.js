@@ -9,13 +9,13 @@ function Nav () {
   return (
     <div class="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
       <div class="relative flex grid items-center grid-cols-2 lg:grid-cols-3">
-        <ul class="flex items-center hidden space-x-8 lg:flex">
+        <ul class="items-center hidden space-x-8 lg:flex">
           <li>
             <a
               href="#home"
               aria-label="Our product"
               title="Our product"
-              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+              class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400 hover:underline"
             >
               Home
             </a>
