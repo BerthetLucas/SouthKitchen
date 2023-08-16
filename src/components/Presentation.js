@@ -8,10 +8,6 @@ import "aos/dist/aos.css";
 
 function Presentation () {
 
-  useEffect(() => {
-    AOS.init();
-    AOS.refresh();
-  }, []);
 
 
     return (

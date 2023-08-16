@@ -7,9 +7,18 @@ import History from "./components/history";
 import Contact from "./components/contact";
 import Footer from "./components/footer";
 
-
+import React, { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 function App() {
+
+
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+
 
   return (
     <div>
@@ -46,8 +55,6 @@ function App() {
       </div>
     </div>
   );
-
-
 
 }
 
