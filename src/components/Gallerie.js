@@ -17,6 +17,7 @@ function Gallerie() {
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
+          data-aos-duration="1000"
         ></img>
         <img
           src={platsaladefromage}
@@ -24,6 +25,7 @@ function Gallerie() {
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
+          data-aos-duration="1000"
         ></img>
         <img
           src={platcourgette}
@@ -31,6 +33,7 @@ function Gallerie() {
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
+          data-aos-duration="1000"
         ></img>
       </div>
 
@@ -41,6 +44,7 @@ function Gallerie() {
           className="w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
+          data-aos-duration="1000"
         ></img>
         <img
           src={platpoisson}
@@ -48,6 +52,7 @@ function Gallerie() {
           className="w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
+          data-aos-duration="1000"
         ></img>
         <img
           src={platpoischiche}
@@ -55,6 +60,7 @@ function Gallerie() {
           className="w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
+          data-aos-duration="1000"
         ></img>
       </div>
     </div>
