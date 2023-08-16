@@ -16,7 +16,6 @@ function App() {
 
   useEffect(() => {
     AOS.init();
-    AOS.refresh();
   }, []);
 
 
