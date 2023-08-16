@@ -16,18 +16,21 @@ function Gallerie() {
           alt=""
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
+          data-aos-offset="30"
         ></img>
         <img
           src={platsaladefromage}
           alt=""
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
+          data-aos-offset="30"
         ></img>
         <img
           src={platcourgette}
           alt=""
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
+          data-aos-offset="30"
         ></img>
       </div>
 
@@ -37,18 +40,21 @@ function Gallerie() {
           alt=""
           className="w-1/4"
           data-aos="fade-up"
+          data-aos-offset="30"
         ></img>
         <img
           src={platpoisson}
           alt=""
           className="w-1/4"
           data-aos="fade-up"
+          data-aos-offset="30"
         ></img>
         <img
           src={platpoischiche}
           alt=""
           className="w-1/4"
           data-aos="fade-up"
+          data-aos-offset="30"
         ></img>
       </div>
     </div>
