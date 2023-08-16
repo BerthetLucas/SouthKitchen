@@ -7,15 +7,8 @@ import platgastronomique from "../assets/img/platgastronomique.jpg";
 import platpoisson from "../assets/img/platpoisson.jpg";
 import platsaladefromage from "../assets/img/platsaladefromage.jpg";
 
-import React, { useEffect } from "react";
-import AOS from "aos";
-import "aos/dist/aos.css";
 
 function Gallerie() {
-
-  useEffect(() => {
-    AOS.init();
-  }, []);
 
   return (
     <div className="md:flex flex-col justify-around items-center gap-5">
