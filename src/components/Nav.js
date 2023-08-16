@@ -17,7 +17,7 @@ function Nav () {
               title="Our product"
               class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400 hover:underline"
             >
-              Home
+              Accueil
             </a>
           </li>
           <li>
@@ -60,7 +60,7 @@ function Nav () {
      <img src= {logo} alt="" className="w-11"></img>
       
           <span class="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">
-            La Garigue 
+            La Garrigue 
           </span>
         </a>
         
@@ -99,7 +99,7 @@ function Nav () {
                     >
                    <img src= {logo} alt="" className="w-11"></img>
                       <span class="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">
-                        La Garigue
+                        La Garrigue
                       </span>
                     </a>
                   </div>
@@ -129,7 +129,7 @@ function Nav () {
                         class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                         onClick={() => setIsMenuOpen(false)}
                       >
-                        Home
+                        Accueil
                       </a>
                     </li>
                     <li>

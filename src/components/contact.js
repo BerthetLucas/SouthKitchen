@@ -58,7 +58,7 @@ function Contact() {
             Heure de réservation
           </label>
           <input type="time" name="time" className=" rounded"></input>
-          <label className="text-white md:text-center">Instructions spécfiques</label>
+          <label className="text-white md:text-center">Instructions spécifiques</label>
           <textarea name="message" className="rounded  lg:w-80 xl:h-20" />
           <button className=" rounded-lg bg-white px-8 py-2 mt-3 hover:opacity-30 hover:bg-green-700">
             <input type="submit" value="Send" />

@@ -55,7 +55,7 @@ function CardMenu() {
           </div>
           <div className="bleu px-6 py-8 border border-t-0 rounded-b sm:px-8">
             <h5 className="mb-2 text-xl font-bold leading-none sm:text-2xl">
-              Menu Lavande Bleu
+              Menu Lavande Bleue
             </h5>
             <p className="mb-5 text-gray-700">
             

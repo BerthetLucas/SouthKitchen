@@ -14,12 +14,12 @@ function Footer () {
               <img src= {logo} alt="" className="w-11"></img>
 
               <span className="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">
-                La Garigue
+                La Garrigue
               </span>
             </a>
             <div className="mt-6 lg:max-w-sm">
               <p className="text-sm text-gray-800">
-              Venez nous rendre visite aujourd'hui et découvrez pourquoi La Garigue est le meilleur endroit pour déguster de la cuisine du Sud faite maison.
+              Venez nous rendre visite aujourd'hui et découvrez pourquoi La Garrigue est le meilleur endroit pour déguster de la cuisine du Sud faite maison.
               </p>
              
             </div>

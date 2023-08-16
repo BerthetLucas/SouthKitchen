@@ -25,7 +25,7 @@ function Presentation () {
               fraîche et ensoleilée
             </h2>
             <p className="mb-5 text-base text-justify text-gray-700 md:text-lg md:text-center" data-aos="fade-right" data-aos-duration="2000">
-              Chez La Garigue nous nous engageons sur une cuisine authentique et de qualité. Chaque jour notre chef vous fait découvrir de nouvelles saveurs avec les produits frais du jour.
+              Chez La Garrigue nous nous engageons sur une cuisine authentique et de qualité. Chaque jour notre chef vous fait découvrir de nouvelles saveurs avec les produits frais du jour.
             </p>
           </div>
         </div>
