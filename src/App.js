@@ -23,7 +23,7 @@ function App() {
       <div className="fixed top-0 w-full z-10 bg-white">
         <Nav />
       </div>
-      <div className="page1 h-screen flex flex-col justify-center" id="home">
+      <div className="page1 h-screen flex flex-col justify-start" id="home">
         <Presentation />
       </div>
 

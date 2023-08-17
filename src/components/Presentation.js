@@ -1,17 +1,11 @@
 import platderiz from '../assets/img/plat_de_riz.jpg'
 import '../assets/styles/presentation.css'
 
-import React, { useEffect } from "react";
-import AOS from "aos";
-import "aos/dist/aos.css";
-
 
 function Presentation () {
 
-
-
     return (
-      <div className ="presentation-container">
+      <div className ="presentation-container mt-10 sm:mt-0">
       <div className="presentation-backgroung relative flex flex-col justify-center py-16 md:h-full lg:py-0 lg:flex-col">
       <div className="w-full max-w-xl px-4 mx-auto md:px-0 lg:px-8 lg:py-20 lg:max-w-screen-xl">
         <div className="flex flex-col justify-center mb-0 lg:max-w-lg lg:pr-8 xl:pr-6">
