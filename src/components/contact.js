@@ -27,13 +27,13 @@ function Contact() {
 
   return (
 
-     
-      <div className="md:w-1/2 md:flex md:flex-col md:justify-center md:items-center">
+      <div className="md:w-1/2 md:flex md:flex-col md:justify-center md:items-center"  id="nous-contacter">
          <h2 className=" mb-10 xl:mb-3 mt-11 text-center font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">Pour réserver une table <br />en quelques cliques</h2>
         <form
           ref={form}
           onSubmit={sendEmail}
           className="test flex flex-col items-center justify-center gap-2 rounded-lg md:w-1/2 md:gap-2"
+         
         >
           <label className="text-white md:text-center">Nom de la réservation</label>
           <input type="text" name="user_name" className=" rounded" />

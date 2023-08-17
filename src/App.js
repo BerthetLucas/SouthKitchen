@@ -42,7 +42,7 @@ function App() {
       </div>
 
       <div
-        id="nous-contacter"
+     
         className="page3 flex flex-col justify-center items-center gap-6 pb-5 md:flex-row md:justify-between md:gap-0 md:pb-0 "
       >
         <History />

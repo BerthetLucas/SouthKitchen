@@ -22,7 +22,7 @@ function CardMenu() {
               Menu Citron Jaune
             </h5>
             <p className="mb-5 text-gray-700">
-              
+              Entrée, plat du jour. 
             </p>
           </div>
         </div>
@@ -40,7 +40,7 @@ function CardMenu() {
               Menu Olive Verte
             </h5>
             <p className="mb-5 text-gray-700">
-         
+            Plat du jour, dessert.
             </p>
           </div>
         </div>
@@ -58,7 +58,7 @@ function CardMenu() {
               Menu Lavande Bleue
             </h5>
             <p className="mb-5 text-gray-700">
-            
+            Entrée, plat du jour, dessert. 
             </p>
           </div>
         </div>
