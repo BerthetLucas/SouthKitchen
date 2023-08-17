@@ -8,7 +8,7 @@ function Nav () {
 
   return (
     <div class="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
-      <div class="relative flex grid items-center grid-cols-2 lg:grid-cols-3">
+      <div class="relative flex items-center grid-cols-2 lg:grid-cols-3">
         <ul class="items-center hidden space-x-8 lg:flex">
           <li>
             <a
