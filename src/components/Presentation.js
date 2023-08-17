@@ -23,7 +23,7 @@ function Presentation () {
           <img
             className="object-cover w-full  rounded shadow-lg lg:rounded-none lg:shadow-none md:h-96 lg:h-full"
             src={platderiz}
-            alt=""
+            alt="image de plat avec du riz et des oeufs"
           />
         </div>
       </div>

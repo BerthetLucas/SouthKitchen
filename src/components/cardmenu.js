@@ -13,7 +13,7 @@ function CardMenu() {
             <img
               className="object-cover w-full h-64 rounded-t lg:h-80 xl:h-96"
               src={citrons}
-              alt=""
+              alt="image de citron"
             />
             <div className="absolute inset-0 bg-gray-800 bg-opacity-25" />
           </div>
@@ -31,7 +31,7 @@ function CardMenu() {
             <img
               className="object-cover w-full h-64 rounded-t lg:h-80 xl:h-96"
               src={olives}
-              alt=""
+              alt="image d'olives"
             />
             <div className="absolute inset-0 bg-gray-800 bg-opacity-25" />
           </div>
@@ -49,7 +49,7 @@ function CardMenu() {
             <img
               className="object-cover w-full h-64 rounded-t lg:h-80 xl:h-96"
               src={lavandes}
-              alt=""
+              alt="image de lavande"
             />
             <div className="absolute inset-0 bg-gray-800 bg-opacity-25" />
           </div>

@@ -15,7 +15,7 @@ function Gallerie() {
       <div className="flex flex-col items-center gap-5 md:flex-row justify-center">
         <img
           src={plattarte}
-          alt=""
+          alt="image de tarte"
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
@@ -23,7 +23,7 @@ function Gallerie() {
         ></img>
         <img
           src={platsaladefromage}
-          alt=""
+          alt="image d'un plat à base de fromage"
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
@@ -31,7 +31,7 @@ function Gallerie() {
         ></img>
         <img
           src={platcourgette}
-          alt=""
+          alt="image de plat à base de courgette"
           className="w-3/5 md:w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
@@ -42,7 +42,7 @@ function Gallerie() {
       <div className="hidden md:flex justify-center gap-5">
         <img
           src={platgastronomique}
-          alt=""
+          alt="image d'un plat gastronomique"
           className="w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
@@ -58,7 +58,7 @@ function Gallerie() {
         ></img>
         <img
           src={platpoischiche}
-          alt=""
+          alt="image de plat à base de pois chiche"
           className="w-1/4"
           data-aos="fade-up"
           data-aos-offset="30"
