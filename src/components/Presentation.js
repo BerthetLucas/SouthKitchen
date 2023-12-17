@@ -12,7 +12,7 @@ function Presentation () {
             <h2 className="mb-5 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none md:text-center" data-aos="fade-right" data-aos-duration="2000">
               La cuisine du Sud 
               <br className="md:block" />
-              fraîche et ensoleilée
+              fraîche et ensoleillée
             </h2>
             <p className="mb-5 text-base text-justify text-gray-700 md:text-lg md:text-center" data-aos="fade-right" data-aos-duration="2000">
               Chez La Garrigue nous nous engageons sur une cuisine authentique et de qualité. Chaque jour notre chef vous fait découvrir de nouvelles saveurs avec les produits frais du jour.

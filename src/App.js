@@ -32,7 +32,7 @@ function App() {
         id="galerie"
       >
         <h2 className="mb-10 mt-11 text-center font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-          Des plats ensoleilés
+          Des plats ensoleillés
         </h2>
         <Gallerie />
       </div>
